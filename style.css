@@ -1,0 +1,29 @@
+body{
+    background-color: chocolate;
+    color: white;
+    padding: 15px;
+    margin: 30px;
+    border: dashed black 5px;
+}
+
+button {
+    background-color: white;
+    color: black;
+}
+button:hover{
+    background-color: azure;
+}
+.coffee{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+.coffeeImg {
+    width: 100px;
+    height: 100px;;
+}
+.coffee-description {
+    text-align: center;
+}
